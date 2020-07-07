@@ -97,6 +97,15 @@ header.main {
         padding:120px 0 0;
         background:url('images/feature.png') top center/80px 80px no-repeat;
     }
+        #features .feature.results {
+            background-image:url('images/feature.png');
+        }
+        #features .feature.personalized {
+            background:url('images/personalized.png') top center/120px 80px no-repeat;
+        }
+        #features .feature.body {
+            background-image:url('images/bodyfromhome.png');
+        }
     #features .feature h4 {
         font-size:30px;
         font-weight:bold;
